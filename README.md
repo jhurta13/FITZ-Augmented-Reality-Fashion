@@ -21,38 +21,38 @@ Our goal was to create an applications that utilizes two channels, Desktop/mobil
 
 ### Mobile: Sketch to Final Prototype
 
-![image](https://user-images.githubusercontent.com/78060658/176203406-007515eb-4eb8-4d9f-b927-1930669f1517.png)
+![image](https://user-images.githubusercontent.com/78060658/176203953-d323e598-4050-45e9-9d5f-05f28aacf5ce.png)
+![image](https://user-images.githubusercontent.com/78060658/176204052-bcba446c-557f-4e4c-824b-c56bbb34c5ad.png)
 
-![image](https://user-images.githubusercontent.com/78060658/176203488-4b335687-3afb-4966-8173-0245aad8c110.png)
 
 ### Desktop: Sketch to Final Prototype
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.17.04-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176204271-a20539d1-7c17-4ba8-a608-c7733c5f50d1.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.51.56-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176204339-a4c4494c-e04b-4382-b0bc-637ff2fd2cb8.png)
 
 * * *
 
 2\. Lo-Fi Prototype
 -------------------
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.14.30-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176204426-082d493c-f825-424e-aa78-b688cded7905.png)
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.15.56-pm-3.png)
+![image](https://user-images.githubusercontent.com/78060658/176204466-040854fb-c88d-4350-bea8-999dbc8e2921.png)
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.16.09-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176204512-0f6226df-365f-440a-a751-1a874b72f3fa.png)
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.14.44-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176204542-950e64ee-8d2a-4713-9ea9-071486417c1f.png)
 
 **_Initial sketches from team charrette_**
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.17.15-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176204574-db88a7cf-bfb2-4414-bd61-6ca5b3a6b62d.png)
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.17.04-pm-3.png)
+![image](https://user-images.githubusercontent.com/78060658/176204607-e2334ee1-20a4-4cff-8a12-790140488ace.png)
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.16.52-pm-2(1).png)
+![image](https://user-images.githubusercontent.com/78060658/176204629-b966c6f7-e728-4c65-b2c5-fe4103b2b579.png)
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.16.39-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176204663-6981bdcd-be65-412a-8ff6-dc2258f6360f.png)
 
 **_Final Team Sketches_**
 
@@ -63,7 +63,7 @@ Our goal was to create an applications that utilizes two channels, Desktop/mobil
 
 ### Personas
 
-![](./Fitz App_files/juan_final.webp)
+![image](https://user-images.githubusercontent.com/78060658/176204765-ace64312-2201-4ff1-b602-eb2d9bf1209d.png)
 
 **Name:** Juan 
 
@@ -77,7 +77,7 @@ Our goal was to create an applications that utilizes two channels, Desktop/mobil
 
 **Frustrations:** There are countless amounts for websites and stores to buy clothes from, and a plethora of clothes styles, but after wearing outfits that look great on models, he has found that it does not always translate to how he looks in real life. Feels frustrated at the idea that there are almost limitless amounts of styles and combinations to choose from, but that there is no personal guidance towards selection, and no way of figuring out what will best look on him without spending exorbitant amounts of time in the fitting room. 
 
-![](./Fitz App_files/jerry_final.png)
+![image](https://user-images.githubusercontent.com/78060658/176204824-01af8782-f742-450f-8a2f-0a963db49b15.png)
 
 **Name:** Jerry 
 
@@ -108,23 +108,23 @@ A user is going to a party and does not know what to wear. He utilizes the mobil
 
 ### Mobile
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-11.39.41-am.png)
+![image](https://user-images.githubusercontent.com/78060658/176204895-74fc67d9-21a2-4402-a13a-251b90726c16.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-11.39.02-am.png)
+![image](https://user-images.githubusercontent.com/78060658/176204922-94ad2ee6-87d0-4ddf-b455-93425828bd28.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-11.39.22-am.png)
+![image](https://user-images.githubusercontent.com/78060658/176204956-f87658ae-75d4-4ff4-a077-ea4b8ce49e5b.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.12.30-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176204983-d929d12b-3028-489e-9649-eb1520a6bc5a.png)
 
 [**_Mid-Fi Mobile Prototype_**](https://8sln8g.axshare.com/)
 
 ### Desktop
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.10.50-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205058-87654bc7-4e0b-4820-8b85-d47ef61f3d5d.png)
 
 .
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-6.36.17-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205100-0705d5dc-ffca-45fa-91da-ed30d253aa66.png)
 
 ![](./Fitz App_files/screen-shot-2022-06-02-at-6.32.37-pm.png)
 
