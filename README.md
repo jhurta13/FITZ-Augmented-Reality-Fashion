@@ -298,4 +298,7 @@ Based on the issues identified, we made the following changes to our prototypes:
 
 * * *
 
-![image](https://user-images.githubusercontent.com/78060658/176201409-8606043d-0f64-4b61-a06f-e69e88692be5.png)
+Team Members:
+Chelsea Cisneros, Masters UX Design
+Joshua Hurtado, Masters Computer Science
+Jonathan Hurtado, Masters Computer Science
