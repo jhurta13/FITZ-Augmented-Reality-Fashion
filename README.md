@@ -298,7 +298,7 @@ Based on the issues identified, we made the following changes to our prototypes:
 
 * * *
 
-Team Members: \n
-Chelsea Cisneros, Masters UX Design
-Joshua Hurtado, Masters Computer Science
-Jonathan Hurtado, Masters Computer Science
+*Team Members: 
+*Chelsea Cisneros, Masters UX Design
+*Joshua Hurtado, Masters Computer Science
+*Jonathan Hurtado, Masters Computer Science
