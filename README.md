@@ -126,9 +126,9 @@ A user is going to a party and does not know what to wear. He utilizes the mobil
 
 ![image](https://user-images.githubusercontent.com/78060658/176205100-0705d5dc-ffca-45fa-91da-ed30d253aa66.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-6.32.37-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205420-b91e18dc-7a32-4bdc-946e-2914304164cd.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-6.45.14-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205691-0fc52921-e08a-46ed-8d56-b7a39c795303.png)
 
 [**_Mid-Fi Desktop Prototype_**](https://fe7osk.axshare.com/)
 
@@ -216,17 +216,17 @@ Based on the issues identified, we made the following changes to our prototypes:
 
 ### Mobile
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.45.10-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205756-ce2fbbcd-b154-4cf1-89ce-8754444fbe20.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.45.38-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205785-0c2b4c80-2896-4c56-8a34-f62a35264440.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.46.10-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205819-26833bcc-ae3c-47c0-934a-4b8967a68b88.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.46.26-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205873-863a811e-d5f3-43b9-8e0a-7ca64543dc33.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.46.41-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205894-3c41c529-b18c-4429-abb0-5afbcb7cf666.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.47.10-pm(1).png)
+![image](https://user-images.githubusercontent.com/78060658/176205924-4d103e64-f543-4876-96b0-add2be0b90a5.png)
 
 ### Mid-Fi → Hi-Fi
 
@@ -247,35 +247,35 @@ Based on the issues identified, we made the following changes to our prototypes:
 
 ### Desktop
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.50.44-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205963-ce805fea-dda4-4e6f-972f-577ed5046b03.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.51.01-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176205978-b31eb2dc-b269-4ab2-9ec0-ad827cc02e5a.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.51.15-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206008-f04c0d18-c651-4f42-bb66-56d77e8742c7.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.51.33-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206037-0e3ab139-7450-4d4e-8036-05ad02228a7f.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.51.56-pm(1).png)
+![image](https://user-images.githubusercontent.com/78060658/176206066-20f8d4e6-ea3b-4f9c-afa7-f9c2b0e3f82e.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.52.45-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206086-ad37daf0-4f9d-4312-902f-243a73ecab0e.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.56.09-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206118-64624aaa-0bc9-4e37-bde0-b8e52bf5541b.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.53.08-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206170-84b9970e-8f34-4812-bad3-0447f956b882.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.53.28-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206200-1efa6dd7-cbf3-446c-a560-075024d48986.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.54.20-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206228-b6e2e1d5-6f63-4a9d-9bba-83563657cbf7.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.55.40-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206260-43ad1e7e-a0b2-4ad0-8ce8-7bcd5b3f12db.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.57.19-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206280-6ae6fa0e-e6ab-461b-90fa-1cd669d91cb2.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.58.11-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206302-0d3939f7-e0f8-4ab4-8adb-1962a65d9e16.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.54.59-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206337-2e8e01aa-2f8e-4a3b-b1eb-e803af618a34.png)
 
-![](./Fitz App_files/screen-shot-2022-06-02-at-7.55.14-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176206367-c6f7c1fe-87fc-4c38-a6cc-c9b99ae190ab.png)
 
 ### Mid-Fi → Hi-Fi
 
