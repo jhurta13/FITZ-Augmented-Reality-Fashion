@@ -21,9 +21,9 @@ Our goal was to create an applications that utilizes two channels, Desktop/mobil
 
 ### Mobile: Sketch to Final Prototype
 
-![](./Fitz App_files/screen-shot-2022-05-31-at-5.16.52-pm-2.png)
+![image](https://user-images.githubusercontent.com/78060658/176203406-007515eb-4eb8-4d9f-b927-1930669f1517.png)
 
-![](./Fitz App_files/screen-shot-2022-06-01-at-12.47.10-pm.png)
+![image](https://user-images.githubusercontent.com/78060658/176203488-4b335687-3afb-4966-8173-0245aad8c110.png)
 
 ### Desktop: Sketch to Final Prototype
 
